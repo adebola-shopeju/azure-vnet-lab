@@ -34,6 +34,4 @@ All screenshots are in the `/screenshots` folder.
 - ✅ App ↔ DB: ping succeeds (tested from app VM)  
 - ✅ Web → DB: ping **fails** (NSG on db subnet correctly denies)
 
-## Cleanup
 
-To avoid charges, delete the resource group `rg-vnet-lab-eastus` from Azure Portal.
